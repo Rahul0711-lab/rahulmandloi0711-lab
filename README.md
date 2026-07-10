@@ -1,6 +1,4 @@
 
-# rahulmandloi0711-lab
-
 const rahulMandloi = {
   title: "IT / Technical Support Engineer",
   location: "Bhopal, India",
